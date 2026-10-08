@@ -87,7 +87,7 @@ The Amazon QuickSight dashboard brings the analysis together through **3 KPI car
 
 ### Dashboard Preview
 
-![Global EV Market Insights Dashboard](./Final%20Project/Dashboard.png)
+![Global EV Market Insights Dashboard](./Final%20project/Dashboard.png)
 
 ---
 
@@ -104,7 +104,7 @@ The agent supports market research by helping organize and interpret evidence ar
 
 ### Agent Screenshot
 
-![Market Intelligence Agent](./Final%20Project/Market%20Intelligence%20Agent.png)
+![Market Intelligence Agent](./Final%20project/Market%20Intelligence%20Agent.png)
 
 ---
 
@@ -123,7 +123,7 @@ The analysis uses an **IEA historical EV dataset** covering:
 
 ### Dataset Reference
 
-![Dataset](./Final%20Project/Dataset.png)
+![Dataset](./Final%20project/Dataset.png)
 
 ---
 

@@ -206,12 +206,12 @@ All major project artifacts are available below.
 
 | Artifact | Description |
 |---|---|
-| 📊 [Dashboard](./Final%20Project/Dashboard.png) | Final Amazon QuickSight dashboard screenshot |
-| 🤖 [Market Intelligence Agent](./Final%20Project/Market%20Intelligence%20Agent.png) | Screenshot of the AI-assisted research agent |
-| 🗃️ [Dataset](./Final%20Project/Dataset.png) | Dataset/reference screenshot |
-| 🖥️ [Environment / Space](./Final%20Project/Space.png) | Project environment screenshot |
-| 📄 [Research Brief](./Final%20Project/Market%20Intelligence%20Research%20Brief%20EV.docx) | Completed Market Intelligence Research Brief |
-| 📑 [Dashboard PDF](./Final%20Project/Global%20EV%20Market%20Insights.pdf) | Exported dashboard / visual evidence |
+| 📊 [Dashboard](./Final%20project/Dashboard.png) | Final Amazon QuickSight dashboard screenshot |
+| 🤖 [Market Intelligence Agent](./Final%20project/Market%20Intelligence%20Agent.png) | Screenshot of the AI-assisted research agent |
+| 🗃️ [Dataset](./Final%20project/Dataset.png) | Dataset/reference screenshot |
+| 🖥️ [Environment / Space](./Final%20project/Space.png) | Project environment screenshot |
+| 📄 [Research Brief](./Final%20project/Market%20Intelligence%20Research%20Brief%20EV.docx) | Completed Market Intelligence Research Brief |
+| 📑 [Dashboard PDF](./Final%20project/Global%20EV%20Market%20Insights.pdf) | Exported dashboard / visual evidence |
 
 ---
 
@@ -287,4 +287,4 @@ The project turns these findings into an executive-friendly dashboard and resear
 
 ### 📎 Quick Access
 
-**[📊 View Dashboard](./Final%20Project/Dashboard.png)** · **[📄 Read Research Brief](./Final%20Project/Market%20Intelligence%20Research%20Brief%20EV.docx)** · **[📑 View Dashboard PDF](./Final%20Project/Global%20EV%20Market%20Insights.pdf)** · **[🤖 View Agent](./Final%20Project/Market%20Intelligence%20Agent.png)**
+**[📊 View Dashboard](./Final%20project/Dashboard.png)** · **[📄 Read Research Brief](./Final%20project/Market%20Intelligence%20Research%20Brief%20EV.docx)** · **[📑 View Dashboard PDF](./Final%20project/Global%20EV%20Market%20Insights.pdf)** · **[🤖 View Agent](./Final%20project/Market%20Intelligence%20Agent.png)**
